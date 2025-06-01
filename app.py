@@ -154,7 +154,7 @@
     
     
     
-    import streamlit as st
+import streamlit as st
 from auth_utils import register_user, login_user
 
 st.title("🛍️ Shop Login System")
